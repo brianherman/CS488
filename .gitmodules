@@ -1,0 +1,3 @@
+[submodule "opengl-series"]
+	path = opengl-series
+	url = https://github.com/tomdalling/opengl-series.git
